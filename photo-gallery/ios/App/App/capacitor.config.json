@@ -1,0 +1,14 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "photo-gallery",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "linuxAndroidStudioPath": "/snap/bin/android-studio"
+}
